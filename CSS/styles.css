@@ -1,0 +1,56 @@
+  /* h1{ 
+    text-align: center;
+    color:rgb(148, 255, 0);
+}
+
+
+body {
+
+  height: 100%;
+  width: 100%;
+ margin:0;
+    color:rgb(22, 63, 55);
+}
+    
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    background-color: rgb(66, 244, 235);
+    }
+
+
+li a:hover {
+   background-color: rgb(66, 244, 235);    
+    color: white;
+    display: inline;
+}
+
+.ME{
+    text-align: center;
+    color:rgb(22, 63, 55);
+}
+
+.background-img {
+  width: 100%;
+  height: 100%;
+  z-index: 2;
+  position: fixed;
+  background-size: cover;
+  /*Safari*
+  -webkit-animation-name: background-img;
+  /*Safari*
+  -webkit-animation-duration: 8s;
+  animation-name: background-img;
+  animation-duration: 8s;
+  animation-iteration-count: infinite;
+}
+
+@keyframes background-img {
+    20%   {background-image:url(/img/ivy.jpg);}
+    40%  {background-image:url(/img/Dub.jpg);}
+    60%  {background-image:url(/img/ark.jpg);}
+    80% {background-image:url(/img/realhacking.jpg);}
+}
+*/
